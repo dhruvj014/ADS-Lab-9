@@ -4,4 +4,7 @@ Stellar Classification Model This repository contains a stellar classification m
     Clone this repository to your local machine.
     Install the required dependencies: pip install streamlit
     Start the Streamlit app: streamlit run app.py
-    Open a web browser and navigate to http://localhost:5501. Conclusion This stellar classification model is a powerful tool that can be used to identify and classify stars with high accuracy. The model is easy to use and deploy, making it a valuable resource for astronomers and anyone else interested in stellar classification.
+    Open a web browser and navigate to http://localhost:5501. 
+    
+Conclusion : This stellar classification model is a powerful tool that can be used to identify and classify stars with high accuracy. 
+The model is easy to use and deploy, making it a valuable resource for astronomers and anyone else interested in stellar classification.
