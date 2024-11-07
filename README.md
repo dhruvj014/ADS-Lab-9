@@ -8,3 +8,5 @@ Stellar Classification Model This repository contains a stellar classification m
     
 Conclusion : This stellar classification model is a powerful tool that can be used to identify and classify stars with high accuracy. 
 The model is easy to use and deploy, making it a valuable resource for astronomers and anyone else interested in stellar classification.
+![334850808-614dc3c7-b27a-462d-89a4-f4215ae33208](https://github.com/user-attachments/assets/3ad70510-9fe8-4492-a6d3-2fe0863bdfee)
+![334852019-758ffe74-2476-4f3d-8dab-6ed34ee89108](https://github.com/user-attachments/assets/24200351-1181-4b94-ba6c-2809d5bb94a3)
